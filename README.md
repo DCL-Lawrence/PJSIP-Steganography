@@ -9,7 +9,7 @@ This is an extension for <a href="https://www.pjsip.org/">PJSIP</a> project. You
   <li>Use "&" notation to input the secret message.</li>
 </ol>
 
-### File path
+## File path
 <ol>
   <li>config_site.h: \pjproject-2.xx\pjlib\include\pj</li>
   <li>pjsua_app_legacy.c: \pjproject-2.xx\pjsip-apps\src\pjsua</li>
